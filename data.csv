@@ -1,0 +1,554 @@
+pow_code,col_code,Indep,Viol,col_country,col_rank,col_sport,pow_country,pow_rank,pow_sport,Indep_yr
+2,840,194607,0,philippines,1,Basketball,united states of america,1,American Football,1946
+2,40,190205,0,cuba,1,Baseball,united states of america,1,American Football,1902
+100,95,190311,1,panama,1,Water Sports,colombia,1,Football (Soccer),1903
+100,101,183001,0,venezuela,1,Baseball,colombia,1,Football (Soccer),1830
+100,130,183005,0,ecuador,1,Wrestling,colombia,1,Football (Soccer),1830
+140,165,182808,1,uruguay,1,Skateboarding,brazil,1,Football (Soccer),1828
+200,692,197108,0,bahrain,1,Wrestling,united kingdom,1,Football (Soccer),1971
+200,690,196106,0,kuwait,1,Football (Soccer),united kingdom,1,Football (Soccer),1961
+200,694,197109,0,qatar,1,Football (Soccer),united kingdom,1,Football (Soccer),1971
+200,20,186707,0,canada,1,Ice Hockey,united kingdom,1,Football (Soccer),1867
+200,571,196609,0,botswana,1,Cricket,united kingdom,1,Football (Soccer),1966
+200,770,194708,0,pakistan,1,Cricket,united kingdom,1,Football (Soccer),1947
+200,750,194708,0,india,1,Cricket,united kingdom,1,Football (Soccer),1947
+200,590,196803,0,mauritius,1,Football (Soccer),united kingdom,1,Football (Soccer),1968
+200,820,195708,0,malaysia,1,Football (Soccer),united kingdom,1,Football (Soccer),1957
+200,780,194802,0,sri lanka,1,Cricket,united kingdom,1,Football (Soccer),1948
+200,31,197307,0,bahamas,1,Tennis,united kingdom,1,Football (Soccer),1973
+200,625,195601,0,sudan,1,Football (Soccer),united kingdom,1,Football (Soccer),1956
+200,591,197606,0,seychelles,1,Water Sports,united kingdom,1,Football (Soccer),1976
+200,52,196208,0,trinidad and tobago,1,Wrestling,united kingdom,1,Football (Soccer),1962
+200,666,194805,1,israel,1,Basketball,united kingdom,1,Football (Soccer),1948
+200,55,197402,0,greece,1,Football (Soccer),united kingdom,1,Football (Soccer),1974
+200,452,195703,0,ghana,1,Football (Soccer),united kingdom,1,Football (Soccer),1957
+200,475,196010,0,nigeria,1,Football (Soccer),united kingdom,1,Football (Soccer),1960
+200,205,192212,1,ireland,1,Football (Soccer),united kingdom,1,Football (Soccer),1922
+200,920,190709,0,new zealand,1,Rugby,united kingdom,1,Football (Soccer),1907
+200,560,191005,0,south africa,1,Football (Soccer),united kingdom,1,Football (Soccer),1910
+200,620,195112,0,libya,1,Football (Soccer),united kingdom,1,Football (Soccer),1951
+200,2,178309,1,united states of america,1,American Football,united kingdom,1,Football (Soccer),1783
+200,696,197112,0,united arab emirates,1,Football (Soccer),united kingdom,1,Football (Soccer),1971
+200,835,198401,0,brunei,1,Football (Soccer),united kingdom,1,Football (Soccer),1984
+200,645,193210,0,iraq,1,Football (Soccer),united kingdom,1,Football (Soccer),1932
+200,651,192202,0,egypt,1,Football (Soccer),united kingdom,1,Football (Soccer),1922
+200,775,194801,0,myanmar,1,Football (Soccer),united kingdom,1,Football (Soccer),1948
+200,900,190101,0,australia,1,Australian Football,united kingdom,1,Football (Soccer),1901
+200,501,196312,1,kenya,1,Football (Soccer),united kingdom,1,Football (Soccer),1963
+200,58,198111,0,antigua and barbuda,1,Cricket,united kingdom,1,Football (Soccer),1981
+200,500,196210,0,uganda,1,Football (Soccer),united kingdom,1,Football (Soccer),1962
+200,510,196112,0,tanzania,1,Football (Soccer),united kingdom,1,Football (Soccer),1961
+210,211,183010,1,belgium,1,Football (Soccer),netherlands,1,Football (Soccer),1830
+210,850,194912,1,indonesia,1,Football (Soccer),netherlands,1,Football (Soccer),1949
+210,212,186705,0,luxembourg,1,Boxing,netherlands,1,Football (Soccer),1867
+211,490,196006,1,democratic republic of the congo,1,Wrestling,belgium,1,Football (Soccer),1960
+220,439,196008,0,burkina faso,1,Football (Soccer),france,1,Basketball,1960
+220,652,194604,1,syrian arab republic,1,Football (Soccer),france,1,Basketball,1946
+220,600,195603,0,morocco,1,Football (Soccer),france,1,Basketball,1956
+220,615,196207,1,algeria,1,Football (Soccer),france,1,Basketball,1962
+220,660,194311,0,lebanon,1,Wrestling,france,1,Basketball,1943
+220,817,195407,1,republic of vietnam,1,Tennis,france,1,Basketball,1954
+220,438,195810,0,guatemala,1,Martial Arts,france,1,Basketball,1958
+220,437,196008,0,ivory coast,1,Football (Soccer),france,1,Basketball,1960
+230,150,181105,1,paraguay,1,Tennis,spain,1,Basketball,1811
+230,210,158107,1,netherlands,1,Football (Soccer),spain,1,Basketball,1581
+230,70,182109,1,mexico,1,Football (Soccer),spain,1,Basketball,1821
+230,135,182412,1,peru,1,Football (Soccer),spain,1,Basketball,1824
+230,160,181607,1,argentina,1,Basketball,spain,1,Basketball,1816
+230,100,181912,1,colombia,1,Football (Soccer),spain,1,Basketball,1819
+230,155,181802,1,chile,1,Football (Soccer),spain,1,Basketball,1818
+235,140,182209,0,brazil,1,Football (Soccer),portugal,1,Football (Soccer),1822
+365,366,191811,1,estonia,1,Cue Sports,russian federation,1,Football (Soccer),1918
+365,368,191802,1,lithuania,1,Basketball,russian federation,1,Football (Soccer),1918
+365,367,191811,1,latvia,1,Basketball,russian federation,1,Football (Soccer),1918
+365,368,199109,0,lithuania,1,Basketball,russian federation,1,Football (Soccer),1991
+365,705,199112,0,kazakhstan,1,Football (Soccer),russian federation,1,Football (Soccer),1991
+365,366,199108,0,estonia,1,Cue Sports,russian federation,1,Football (Soccer),1991
+365,704,199112,0,uzbekistan,1,Football (Soccer),russian federation,1,Football (Soccer),1991
+365,371,199112,0,armenia,1,Skating,russian federation,1,Football (Soccer),1991
+365,373,199112,0,azerbaijan,1,Football (Soccer),russian federation,1,Football (Soccer),1991
+365,367,199109,0,latvia,1,Basketball,russian federation,1,Football (Soccer),1991
+365,370,199112,0,belarus,1,Ice Hockey,russian federation,1,Football (Soccer),1991
+365,375,191712,1,finland,1,Ice Hockey,russian federation,1,Football (Soccer),1917
+365,290,191811,1,poland,1,Football (Soccer),russian federation,1,Football (Soccer),1918
+365,369,199112,0,ukraine,1,Football (Soccer),russian federation,1,Football (Soccer),1991
+380,385,190506,0,norway,1,Ice Hockey,sweden,1,Football (Soccer),1905
+560,565,199003,1,namibia,1,Football (Soccer),south africa,1,Football (Soccer),1990
+640,698,174100,1,oman,1,Wrestling,turkey,1,Basketball,1741
+640,339,191307,1,albania,1,Football (Soccer),turkey,1,Basketball,1913
+640,355,187803,1,bulgaria,1,Football (Soccer),turkey,1,Basketball,1878
+640,651,183111,0,egypt,1,Football (Soccer),turkey,1,Basketball,1831
+640,360,187807,1,romania,1,Football (Soccer),turkey,1,Basketball,1878
+651,652,196109,0,syrian arab republic,1,Football (Soccer),egypt,1,Football (Soccer),1961
+710,713,194912,1,taiwan,1,Basketball,china,1,Basketball,1949
+710,712,192108,1,mongolia,1,Motor Sports,china,1,Basketball,1921
+770,771,197112,1,bangladesh,1,Football (Soccer),pakistan,1,Cricket,1971
+820,830,196508,0,singapore,1,Football (Soccer),malaysia,1,Football (Soccer),1965
+2,40,190205,0,cuba,2,Football (Soccer),united states of america,1,American Football,1902
+2,840,194607,0,philippines,2,Boxing,united states of america,1,American Football,1946
+100,101,183001,0,venezuela,2,Basketball,colombia,1,Football (Soccer),1830
+100,130,183005,0,ecuador,2,Water Sports,colombia,1,Football (Soccer),1830
+100,95,190311,1,panama,2,Boxing,colombia,1,Football (Soccer),1903
+200,694,197109,0,qatar,2,Wrestling,united kingdom,1,Football (Soccer),1971
+200,690,196106,0,kuwait,2,Wrestling,united kingdom,1,Football (Soccer),1961
+200,750,194708,0,india,2,Football (Soccer),united kingdom,1,Football (Soccer),1947
+200,770,194708,0,pakistan,2,Field Hockey,united kingdom,1,Football (Soccer),1947
+200,590,196803,0,mauritius,2,Badminton,united kingdom,1,Football (Soccer),1968
+200,20,186707,0,canada,2,Basketball,united kingdom,1,Football (Soccer),1867
+200,560,191005,0,south africa,2,Water Sports,united kingdom,1,Football (Soccer),1910
+200,696,197112,0,united arab emirates,2,Wrestling,united kingdom,1,Football (Soccer),1971
+200,780,194802,0,sri lanka,2,Wrestling,united kingdom,1,Football (Soccer),1948
+200,625,195601,0,sudan,2,Wrestling,united kingdom,1,Football (Soccer),1956
+200,58,198111,0,antigua and barbuda,2,Football (Soccer),united kingdom,1,Football (Soccer),1981
+200,2,178309,1,united states of america,2,Baseball,united kingdom,1,Football (Soccer),1783
+200,52,196208,0,trinidad and tobago,2,Running,united kingdom,1,Football (Soccer),1962
+200,55,197402,0,greece,2,Basketball,united kingdom,1,Football (Soccer),1974
+200,475,196010,0,nigeria,2,Wrestling,united kingdom,1,Football (Soccer),1960
+200,900,190101,0,australia,2,Rugby,united kingdom,1,Football (Soccer),1901
+200,666,194805,1,israel,2,Wrestling,united kingdom,1,Football (Soccer),1948
+200,651,192202,0,egypt,2,Wrestling,united kingdom,1,Football (Soccer),1922
+200,820,195708,0,malaysia,2,Cricket,united kingdom,1,Football (Soccer),1957
+200,205,192212,1,ireland,2,Golf,united kingdom,1,Football (Soccer),1922
+200,920,190709,0,new zealand,2,Cricket,united kingdom,1,Football (Soccer),1907
+210,850,194912,1,indonesia,2,Basketball,netherlands,1,Football (Soccer),1949
+210,211,183010,1,belgium,2,Motor Sports,netherlands,1,Football (Soccer),1830
+220,600,195603,0,morocco,2,Water Sports,france,1,Basketball,1956
+220,615,196207,1,algeria,2,Wrestling,france,1,Basketball,1962
+220,439,196008,0,burkina faso,2,Cycling,france,1,Basketball,1960
+230,100,181912,1,colombia,2,Cycling,spain,1,Basketball,1819
+230,210,158107,1,netherlands,2,Motor Sports,spain,1,Basketball,1581
+230,160,181607,1,argentina,2,Tennis,spain,1,Basketball,1816
+230,70,182109,1,mexico,2,Boxing,spain,1,Basketball,1821
+230,135,182412,1,peru,2,Wrestling,spain,1,Basketball,1824
+230,155,181802,1,chile,2,Wrestling,spain,1,Basketball,1818
+235,140,182209,0,brazil,2,Volleyball,portugal,1,Football (Soccer),1822
+365,704,199112,0,uzbekistan,2,Ice Hockey,russian federation,1,Football (Soccer),1991
+365,368,199109,0,lithuania,2,Tennis,russian federation,1,Football (Soccer),1991
+365,367,191811,1,latvia,2,Ice Hockey,russian federation,1,Football (Soccer),1918
+365,369,199112,0,ukraine,2,Wrestling,russian federation,1,Football (Soccer),1991
+365,368,191802,1,lithuania,2,Tennis,russian federation,1,Football (Soccer),1918
+365,367,199109,0,latvia,2,Ice Hockey,russian federation,1,Football (Soccer),1991
+365,375,191712,1,finland,2,Football (Soccer),russian federation,1,Football (Soccer),1917
+365,370,199112,0,belarus,2,Football (Soccer),russian federation,1,Football (Soccer),1991
+365,705,199112,0,kazakhstan,2,Cycling,russian federation,1,Football (Soccer),1991
+365,290,191811,1,poland,2,Basketball,russian federation,1,Football (Soccer),1918
+380,385,190506,0,norway,2,Winter Sports,sweden,1,Football (Soccer),1905
+640,360,187807,1,romania,2,Wrestling,turkey,1,Basketball,1878
+640,651,183111,0,egypt,2,Wrestling,turkey,1,Basketball,1831
+640,355,187803,1,bulgaria,2,Tennis,turkey,1,Basketball,1878
+710,713,194912,1,taiwan,2,Baseball,china,1,Basketball,1949
+770,771,197112,1,bangladesh,2,Wrestling,pakistan,1,Cricket,1971
+820,830,196508,0,singapore,2,Basketball,malaysia,1,Football (Soccer),1965
+2,840,194607,0,philippines,3,Volleyball,united states of america,1,American Football,1946
+2,40,190205,0,cuba,3,Volleyball,united states of america,1,American Football,1902
+100,101,183001,0,venezuela,3,Football (Soccer),colombia,1,Football (Soccer),1830
+100,130,183005,0,ecuador,3,Motor Sports,colombia,1,Football (Soccer),1830
+100,95,190311,1,panama,3,Skateboarding,colombia,1,Football (Soccer),1903
+200,770,194708,0,pakistan,3,Football (Soccer),united kingdom,1,Football (Soccer),1947
+200,55,197402,0,greece,3,Motor Sports,united kingdom,1,Football (Soccer),1974
+200,20,186707,0,canada,3,Baseball,united kingdom,1,Football (Soccer),1867
+200,750,194708,0,india,3,Field Hockey,united kingdom,1,Football (Soccer),1947
+200,694,197109,0,qatar,3,Cricket,united kingdom,1,Football (Soccer),1971
+200,696,197112,0,united arab emirates,3,Cricket,united kingdom,1,Football (Soccer),1971
+200,820,195708,0,malaysia,3,Badminton,united kingdom,1,Football (Soccer),1957
+200,651,192202,0,egypt,3,Tennis,united kingdom,1,Football (Soccer),1922
+200,2,178309,1,united states of america,3,Basketball,united kingdom,1,Football (Soccer),1783
+200,560,191005,0,south africa,3,Cricket,united kingdom,1,Football (Soccer),1910
+200,666,194805,1,israel,3,Tennis,united kingdom,1,Football (Soccer),1948
+200,58,198111,0,antigua and barbuda,3,Tennis,united kingdom,1,Football (Soccer),1981
+200,920,190709,0,new zealand,3,Football (Soccer),united kingdom,1,Football (Soccer),1907
+200,205,192212,1,ireland,3,Boxing,united kingdom,1,Football (Soccer),1922
+200,900,190101,0,australia,3,Cricket,united kingdom,1,Football (Soccer),1901
+210,211,183010,1,belgium,3,Cycling,netherlands,1,Football (Soccer),1830
+210,850,194912,1,indonesia,3,Wrestling,netherlands,1,Football (Soccer),1949
+220,600,195603,0,morocco,3,Boxing,france,1,Basketball,1956
+220,439,196008,0,burkina faso,3,Rugby,france,1,Basketball,1960
+230,155,181802,1,chile,3,Tennis,spain,1,Basketball,1818
+230,210,158107,1,netherlands,3,Basketball,spain,1,Basketball,1581
+230,160,181607,1,argentina,3,Football (Soccer),spain,1,Basketball,1816
+230,135,182412,1,peru,3,Tennis,spain,1,Basketball,1824
+230,70,182109,1,mexico,3,Basketball,spain,1,Basketball,1821
+230,100,181912,1,colombia,3,Motor Sports,spain,1,Basketball,1819
+235,140,182209,0,brazil,3,Basketball,portugal,1,Football (Soccer),1822
+365,367,191811,1,latvia,3,Football (Soccer),russian federation,1,Football (Soccer),1918
+365,368,191802,1,lithuania,3,Martial Arts,russian federation,1,Football (Soccer),1918
+365,368,199109,0,lithuania,3,Martial Arts,russian federation,1,Football (Soccer),1991
+365,369,199112,0,ukraine,3,Basketball,russian federation,1,Football (Soccer),1991
+365,704,199112,0,uzbekistan,3,Rugby,russian federation,1,Football (Soccer),1991
+365,367,199109,0,latvia,3,Football (Soccer),russian federation,1,Football (Soccer),1991
+365,290,191811,1,poland,3,Motor Sports,russian federation,1,Football (Soccer),1918
+365,370,199112,0,belarus,3,Tennis,russian federation,1,Football (Soccer),1991
+365,375,191712,1,finland,3,Motor Sports,russian federation,1,Football (Soccer),1917
+365,705,199112,0,kazakhstan,3,Boxing,russian federation,1,Football (Soccer),1991
+380,385,190506,0,norway,3,Football (Soccer),sweden,1,Football (Soccer),1905
+640,651,183111,0,egypt,3,Tennis,turkey,1,Basketball,1831
+640,360,187807,1,romania,3,Tennis,turkey,1,Basketball,1878
+640,355,187803,1,bulgaria,3,Motor Sports,turkey,1,Basketball,1878
+710,713,194912,1,taiwan,3,Table Tennis,china,1,Basketball,1949
+770,771,197112,1,bangladesh,3,Cricket,pakistan,1,Cricket,1971
+820,830,196508,0,singapore,3,Cricket,malaysia,1,Football (Soccer),1965
+2,840,194607,0,philippines,1,Basketball,united states of america,2,Baseball,1946
+2,40,190205,0,cuba,1,Baseball,united states of america,2,Baseball,1902
+100,95,190311,1,panama,1,Water Sports,colombia,2,Cycling,1903
+100,101,183001,0,venezuela,1,Baseball,colombia,2,Cycling,1830
+100,130,183005,0,ecuador,1,Wrestling,colombia,2,Cycling,1830
+140,165,182808,1,uruguay,1,Skateboarding,brazil,2,Volleyball,1828
+200,692,197108,0,bahrain,1,Wrestling,united kingdom,2,Cricket,1971
+200,690,196106,0,kuwait,1,Football (Soccer),united kingdom,2,Cricket,1961
+200,694,197109,0,qatar,1,Football (Soccer),united kingdom,2,Cricket,1971
+200,20,186707,0,canada,1,Ice Hockey,united kingdom,2,Cricket,1867
+200,571,196609,0,botswana,1,Cricket,united kingdom,2,Cricket,1966
+200,770,194708,0,pakistan,1,Cricket,united kingdom,2,Cricket,1947
+200,750,194708,0,india,1,Cricket,united kingdom,2,Cricket,1947
+200,590,196803,0,mauritius,1,Football (Soccer),united kingdom,2,Cricket,1968
+200,820,195708,0,malaysia,1,Football (Soccer),united kingdom,2,Cricket,1957
+200,780,194802,0,sri lanka,1,Cricket,united kingdom,2,Cricket,1948
+200,31,197307,0,bahamas,1,Tennis,united kingdom,2,Cricket,1973
+200,625,195601,0,sudan,1,Football (Soccer),united kingdom,2,Cricket,1956
+200,591,197606,0,seychelles,1,Water Sports,united kingdom,2,Cricket,1976
+200,52,196208,0,trinidad and tobago,1,Wrestling,united kingdom,2,Cricket,1962
+200,666,194805,1,israel,1,Basketball,united kingdom,2,Cricket,1948
+200,55,197402,0,greece,1,Football (Soccer),united kingdom,2,Cricket,1974
+200,452,195703,0,ghana,1,Football (Soccer),united kingdom,2,Cricket,1957
+200,475,196010,0,nigeria,1,Football (Soccer),united kingdom,2,Cricket,1960
+200,205,192212,1,ireland,1,Football (Soccer),united kingdom,2,Cricket,1922
+200,920,190709,0,new zealand,1,Rugby,united kingdom,2,Cricket,1907
+200,560,191005,0,south africa,1,Football (Soccer),united kingdom,2,Cricket,1910
+200,620,195112,0,libya,1,Football (Soccer),united kingdom,2,Cricket,1951
+200,2,178309,1,united states of america,1,American Football,united kingdom,2,Cricket,1783
+200,696,197112,0,united arab emirates,1,Football (Soccer),united kingdom,2,Cricket,1971
+200,835,198401,0,brunei,1,Football (Soccer),united kingdom,2,Cricket,1984
+200,645,193210,0,iraq,1,Football (Soccer),united kingdom,2,Cricket,1932
+200,651,192202,0,egypt,1,Football (Soccer),united kingdom,2,Cricket,1922
+200,775,194801,0,myanmar,1,Football (Soccer),united kingdom,2,Cricket,1948
+200,900,190101,0,australia,1,Australian Football,united kingdom,2,Cricket,1901
+200,501,196312,1,kenya,1,Football (Soccer),united kingdom,2,Cricket,1963
+200,58,198111,0,antigua and barbuda,1,Cricket,united kingdom,2,Cricket,1981
+200,500,196210,0,uganda,1,Football (Soccer),united kingdom,2,Cricket,1962
+200,510,196112,0,tanzania,1,Football (Soccer),united kingdom,2,Cricket,1961
+210,211,183010,1,belgium,1,Football (Soccer),netherlands,2,Motor Sports,1830
+210,850,194912,1,indonesia,1,Football (Soccer),netherlands,2,Motor Sports,1949
+210,212,186705,0,luxembourg,1,Boxing,netherlands,2,Motor Sports,1867
+211,490,196006,1,democratic republic of the congo,1,Wrestling,belgium,2,Motor Sports,1960
+220,439,196008,0,burkina faso,1,Football (Soccer),france,2,Football (Soccer),1960
+220,652,194604,1,syrian arab republic,1,Football (Soccer),france,2,Football (Soccer),1946
+220,600,195603,0,morocco,1,Football (Soccer),france,2,Football (Soccer),1956
+220,615,196207,1,algeria,1,Football (Soccer),france,2,Football (Soccer),1962
+220,660,194311,0,lebanon,1,Wrestling,france,2,Football (Soccer),1943
+220,817,195407,1,republic of vietnam,1,Tennis,france,2,Football (Soccer),1954
+220,438,195810,0,guatemala,1,Martial Arts,france,2,Football (Soccer),1958
+220,437,196008,0,ivory coast,1,Football (Soccer),france,2,Football (Soccer),1960
+230,150,181105,1,paraguay,1,Tennis,spain,2,Football (Soccer),1811
+230,210,158107,1,netherlands,1,Football (Soccer),spain,2,Football (Soccer),1581
+230,70,182109,1,mexico,1,Football (Soccer),spain,2,Football (Soccer),1821
+230,135,182412,1,peru,1,Football (Soccer),spain,2,Football (Soccer),1824
+230,160,181607,1,argentina,1,Basketball,spain,2,Football (Soccer),1816
+230,100,181912,1,colombia,1,Football (Soccer),spain,2,Football (Soccer),1819
+230,155,181802,1,chile,1,Football (Soccer),spain,2,Football (Soccer),1818
+235,140,182209,0,brazil,1,Football (Soccer),portugal,2,Wrestling,1822
+365,366,191811,1,estonia,1,Cue Sports,russian federation,2,Ice Hockey,1918
+365,368,191802,1,lithuania,1,Basketball,russian federation,2,Ice Hockey,1918
+365,367,191811,1,latvia,1,Basketball,russian federation,2,Ice Hockey,1918
+365,368,199109,0,lithuania,1,Basketball,russian federation,2,Ice Hockey,1991
+365,705,199112,0,kazakhstan,1,Football (Soccer),russian federation,2,Ice Hockey,1991
+365,366,199108,0,estonia,1,Cue Sports,russian federation,2,Ice Hockey,1991
+365,704,199112,0,uzbekistan,1,Football (Soccer),russian federation,2,Ice Hockey,1991
+365,371,199112,0,armenia,1,Skating,russian federation,2,Ice Hockey,1991
+365,373,199112,0,azerbaijan,1,Football (Soccer),russian federation,2,Ice Hockey,1991
+365,367,199109,0,latvia,1,Basketball,russian federation,2,Ice Hockey,1991
+365,370,199112,0,belarus,1,Ice Hockey,russian federation,2,Ice Hockey,1991
+365,375,191712,1,finland,1,Ice Hockey,russian federation,2,Ice Hockey,1917
+365,290,191811,1,poland,1,Football (Soccer),russian federation,2,Ice Hockey,1918
+365,369,199112,0,ukraine,1,Football (Soccer),russian federation,2,Ice Hockey,1991
+380,385,190506,0,norway,1,Ice Hockey,sweden,2,Ice Hockey,1905
+560,565,199003,1,namibia,1,Football (Soccer),south africa,2,Water Sports,1990
+640,698,174100,1,oman,1,Wrestling,turkey,2,Football (Soccer),1741
+640,339,191307,1,albania,1,Football (Soccer),turkey,2,Football (Soccer),1913
+640,355,187803,1,bulgaria,1,Football (Soccer),turkey,2,Football (Soccer),1878
+640,651,183111,0,egypt,1,Football (Soccer),turkey,2,Football (Soccer),1831
+640,360,187807,1,romania,1,Football (Soccer),turkey,2,Football (Soccer),1878
+651,652,196109,0,syrian arab republic,1,Football (Soccer),egypt,2,Wrestling,1961
+710,713,194912,1,taiwan,1,Basketball,china,2,Football (Soccer),1949
+710,712,192108,1,mongolia,1,Motor Sports,china,2,Football (Soccer),1921
+770,771,197112,1,bangladesh,1,Football (Soccer),pakistan,2,Field Hockey,1971
+820,830,196508,0,singapore,1,Football (Soccer),malaysia,2,Cricket,1965
+2,40,190205,0,cuba,2,Football (Soccer),united states of america,2,Baseball,1902
+2,840,194607,0,philippines,2,Boxing,united states of america,2,Baseball,1946
+100,101,183001,0,venezuela,2,Basketball,colombia,2,Cycling,1830
+100,130,183005,0,ecuador,2,Water Sports,colombia,2,Cycling,1830
+100,95,190311,1,panama,2,Boxing,colombia,2,Cycling,1903
+200,694,197109,0,qatar,2,Wrestling,united kingdom,2,Cricket,1971
+200,690,196106,0,kuwait,2,Wrestling,united kingdom,2,Cricket,1961
+200,750,194708,0,india,2,Football (Soccer),united kingdom,2,Cricket,1947
+200,770,194708,0,pakistan,2,Field Hockey,united kingdom,2,Cricket,1947
+200,590,196803,0,mauritius,2,Badminton,united kingdom,2,Cricket,1968
+200,20,186707,0,canada,2,Basketball,united kingdom,2,Cricket,1867
+200,560,191005,0,south africa,2,Water Sports,united kingdom,2,Cricket,1910
+200,696,197112,0,united arab emirates,2,Wrestling,united kingdom,2,Cricket,1971
+200,780,194802,0,sri lanka,2,Wrestling,united kingdom,2,Cricket,1948
+200,625,195601,0,sudan,2,Wrestling,united kingdom,2,Cricket,1956
+200,58,198111,0,antigua and barbuda,2,Football (Soccer),united kingdom,2,Cricket,1981
+200,2,178309,1,united states of america,2,Baseball,united kingdom,2,Cricket,1783
+200,52,196208,0,trinidad and tobago,2,Running,united kingdom,2,Cricket,1962
+200,55,197402,0,greece,2,Basketball,united kingdom,2,Cricket,1974
+200,475,196010,0,nigeria,2,Wrestling,united kingdom,2,Cricket,1960
+200,900,190101,0,australia,2,Rugby,united kingdom,2,Cricket,1901
+200,666,194805,1,israel,2,Wrestling,united kingdom,2,Cricket,1948
+200,651,192202,0,egypt,2,Wrestling,united kingdom,2,Cricket,1922
+200,820,195708,0,malaysia,2,Cricket,united kingdom,2,Cricket,1957
+200,205,192212,1,ireland,2,Golf,united kingdom,2,Cricket,1922
+200,920,190709,0,new zealand,2,Cricket,united kingdom,2,Cricket,1907
+210,850,194912,1,indonesia,2,Basketball,netherlands,2,Motor Sports,1949
+210,211,183010,1,belgium,2,Motor Sports,netherlands,2,Motor Sports,1830
+220,600,195603,0,morocco,2,Water Sports,france,2,Football (Soccer),1956
+220,615,196207,1,algeria,2,Wrestling,france,2,Football (Soccer),1962
+220,439,196008,0,burkina faso,2,Cycling,france,2,Football (Soccer),1960
+230,100,181912,1,colombia,2,Cycling,spain,2,Football (Soccer),1819
+230,210,158107,1,netherlands,2,Motor Sports,spain,2,Football (Soccer),1581
+230,160,181607,1,argentina,2,Tennis,spain,2,Football (Soccer),1816
+230,70,182109,1,mexico,2,Boxing,spain,2,Football (Soccer),1821
+230,135,182412,1,peru,2,Wrestling,spain,2,Football (Soccer),1824
+230,155,181802,1,chile,2,Wrestling,spain,2,Football (Soccer),1818
+235,140,182209,0,brazil,2,Volleyball,portugal,2,Wrestling,1822
+365,704,199112,0,uzbekistan,2,Ice Hockey,russian federation,2,Ice Hockey,1991
+365,368,199109,0,lithuania,2,Tennis,russian federation,2,Ice Hockey,1991
+365,367,191811,1,latvia,2,Ice Hockey,russian federation,2,Ice Hockey,1918
+365,369,199112,0,ukraine,2,Wrestling,russian federation,2,Ice Hockey,1991
+365,368,191802,1,lithuania,2,Tennis,russian federation,2,Ice Hockey,1918
+365,367,199109,0,latvia,2,Ice Hockey,russian federation,2,Ice Hockey,1991
+365,375,191712,1,finland,2,Football (Soccer),russian federation,2,Ice Hockey,1917
+365,370,199112,0,belarus,2,Football (Soccer),russian federation,2,Ice Hockey,1991
+365,705,199112,0,kazakhstan,2,Cycling,russian federation,2,Ice Hockey,1991
+365,290,191811,1,poland,2,Basketball,russian federation,2,Ice Hockey,1918
+380,385,190506,0,norway,2,Winter Sports,sweden,2,Ice Hockey,1905
+640,360,187807,1,romania,2,Wrestling,turkey,2,Football (Soccer),1878
+640,651,183111,0,egypt,2,Wrestling,turkey,2,Football (Soccer),1831
+640,355,187803,1,bulgaria,2,Tennis,turkey,2,Football (Soccer),1878
+710,713,194912,1,taiwan,2,Baseball,china,2,Football (Soccer),1949
+770,771,197112,1,bangladesh,2,Wrestling,pakistan,2,Field Hockey,1971
+820,830,196508,0,singapore,2,Basketball,malaysia,2,Cricket,1965
+2,840,194607,0,philippines,3,Volleyball,united states of america,2,Baseball,1946
+2,40,190205,0,cuba,3,Volleyball,united states of america,2,Baseball,1902
+100,101,183001,0,venezuela,3,Football (Soccer),colombia,2,Cycling,1830
+100,130,183005,0,ecuador,3,Motor Sports,colombia,2,Cycling,1830
+100,95,190311,1,panama,3,Skateboarding,colombia,2,Cycling,1903
+200,770,194708,0,pakistan,3,Football (Soccer),united kingdom,2,Cricket,1947
+200,55,197402,0,greece,3,Motor Sports,united kingdom,2,Cricket,1974
+200,20,186707,0,canada,3,Baseball,united kingdom,2,Cricket,1867
+200,750,194708,0,india,3,Field Hockey,united kingdom,2,Cricket,1947
+200,694,197109,0,qatar,3,Cricket,united kingdom,2,Cricket,1971
+200,696,197112,0,united arab emirates,3,Cricket,united kingdom,2,Cricket,1971
+200,820,195708,0,malaysia,3,Badminton,united kingdom,2,Cricket,1957
+200,651,192202,0,egypt,3,Tennis,united kingdom,2,Cricket,1922
+200,2,178309,1,united states of america,3,Basketball,united kingdom,2,Cricket,1783
+200,560,191005,0,south africa,3,Cricket,united kingdom,2,Cricket,1910
+200,666,194805,1,israel,3,Tennis,united kingdom,2,Cricket,1948
+200,58,198111,0,antigua and barbuda,3,Tennis,united kingdom,2,Cricket,1981
+200,920,190709,0,new zealand,3,Football (Soccer),united kingdom,2,Cricket,1907
+200,205,192212,1,ireland,3,Boxing,united kingdom,2,Cricket,1922
+200,900,190101,0,australia,3,Cricket,united kingdom,2,Cricket,1901
+210,211,183010,1,belgium,3,Cycling,netherlands,2,Motor Sports,1830
+210,850,194912,1,indonesia,3,Wrestling,netherlands,2,Motor Sports,1949
+220,600,195603,0,morocco,3,Boxing,france,2,Football (Soccer),1956
+220,439,196008,0,burkina faso,3,Rugby,france,2,Football (Soccer),1960
+230,155,181802,1,chile,3,Tennis,spain,2,Football (Soccer),1818
+230,210,158107,1,netherlands,3,Basketball,spain,2,Football (Soccer),1581
+230,160,181607,1,argentina,3,Football (Soccer),spain,2,Football (Soccer),1816
+230,135,182412,1,peru,3,Tennis,spain,2,Football (Soccer),1824
+230,70,182109,1,mexico,3,Basketball,spain,2,Football (Soccer),1821
+230,100,181912,1,colombia,3,Motor Sports,spain,2,Football (Soccer),1819
+235,140,182209,0,brazil,3,Basketball,portugal,2,Wrestling,1822
+365,367,191811,1,latvia,3,Football (Soccer),russian federation,2,Ice Hockey,1918
+365,368,191802,1,lithuania,3,Martial Arts,russian federation,2,Ice Hockey,1918
+365,368,199109,0,lithuania,3,Martial Arts,russian federation,2,Ice Hockey,1991
+365,369,199112,0,ukraine,3,Basketball,russian federation,2,Ice Hockey,1991
+365,704,199112,0,uzbekistan,3,Rugby,russian federation,2,Ice Hockey,1991
+365,367,199109,0,latvia,3,Football (Soccer),russian federation,2,Ice Hockey,1991
+365,290,191811,1,poland,3,Motor Sports,russian federation,2,Ice Hockey,1918
+365,370,199112,0,belarus,3,Tennis,russian federation,2,Ice Hockey,1991
+365,375,191712,1,finland,3,Motor Sports,russian federation,2,Ice Hockey,1917
+365,705,199112,0,kazakhstan,3,Boxing,russian federation,2,Ice Hockey,1991
+380,385,190506,0,norway,3,Football (Soccer),sweden,2,Ice Hockey,1905
+640,651,183111,0,egypt,3,Tennis,turkey,2,Football (Soccer),1831
+640,360,187807,1,romania,3,Tennis,turkey,2,Football (Soccer),1878
+640,355,187803,1,bulgaria,3,Motor Sports,turkey,2,Football (Soccer),1878
+710,713,194912,1,taiwan,3,Table Tennis,china,2,Football (Soccer),1949
+770,771,197112,1,bangladesh,3,Cricket,pakistan,2,Field Hockey,1971
+820,830,196508,0,singapore,3,Cricket,malaysia,2,Cricket,1965
+2,840,194607,0,philippines,1,Basketball,united states of america,3,Basketball,1946
+2,40,190205,0,cuba,1,Baseball,united states of america,3,Basketball,1902
+100,95,190311,1,panama,1,Water Sports,colombia,3,Motor Sports,1903
+100,101,183001,0,venezuela,1,Baseball,colombia,3,Motor Sports,1830
+100,130,183005,0,ecuador,1,Wrestling,colombia,3,Motor Sports,1830
+140,165,182808,1,uruguay,1,Skateboarding,brazil,3,Basketball,1828
+200,692,197108,0,bahrain,1,Wrestling,united kingdom,3,Rugby,1971
+200,690,196106,0,kuwait,1,Football (Soccer),united kingdom,3,Rugby,1961
+200,694,197109,0,qatar,1,Football (Soccer),united kingdom,3,Rugby,1971
+200,20,186707,0,canada,1,Ice Hockey,united kingdom,3,Rugby,1867
+200,571,196609,0,botswana,1,Cricket,united kingdom,3,Rugby,1966
+200,770,194708,0,pakistan,1,Cricket,united kingdom,3,Rugby,1947
+200,750,194708,0,india,1,Cricket,united kingdom,3,Rugby,1947
+200,590,196803,0,mauritius,1,Football (Soccer),united kingdom,3,Rugby,1968
+200,820,195708,0,malaysia,1,Football (Soccer),united kingdom,3,Rugby,1957
+200,780,194802,0,sri lanka,1,Cricket,united kingdom,3,Rugby,1948
+200,31,197307,0,bahamas,1,Tennis,united kingdom,3,Rugby,1973
+200,625,195601,0,sudan,1,Football (Soccer),united kingdom,3,Rugby,1956
+200,591,197606,0,seychelles,1,Water Sports,united kingdom,3,Rugby,1976
+200,52,196208,0,trinidad and tobago,1,Wrestling,united kingdom,3,Rugby,1962
+200,666,194805,1,israel,1,Basketball,united kingdom,3,Rugby,1948
+200,55,197402,0,greece,1,Football (Soccer),united kingdom,3,Rugby,1974
+200,452,195703,0,ghana,1,Football (Soccer),united kingdom,3,Rugby,1957
+200,475,196010,0,nigeria,1,Football (Soccer),united kingdom,3,Rugby,1960
+200,205,192212,1,ireland,1,Football (Soccer),united kingdom,3,Rugby,1922
+200,920,190709,0,new zealand,1,Rugby,united kingdom,3,Rugby,1907
+200,560,191005,0,south africa,1,Football (Soccer),united kingdom,3,Rugby,1910
+200,620,195112,0,libya,1,Football (Soccer),united kingdom,3,Rugby,1951
+200,2,178309,1,united states of america,1,American Football,united kingdom,3,Rugby,1783
+200,696,197112,0,united arab emirates,1,Football (Soccer),united kingdom,3,Rugby,1971
+200,835,198401,0,brunei,1,Football (Soccer),united kingdom,3,Rugby,1984
+200,645,193210,0,iraq,1,Football (Soccer),united kingdom,3,Rugby,1932
+200,651,192202,0,egypt,1,Football (Soccer),united kingdom,3,Rugby,1922
+200,775,194801,0,myanmar,1,Football (Soccer),united kingdom,3,Rugby,1948
+200,900,190101,0,australia,1,Australian Football,united kingdom,3,Rugby,1901
+200,501,196312,1,kenya,1,Football (Soccer),united kingdom,3,Rugby,1963
+200,58,198111,0,antigua and barbuda,1,Cricket,united kingdom,3,Rugby,1981
+200,500,196210,0,uganda,1,Football (Soccer),united kingdom,3,Rugby,1962
+200,510,196112,0,tanzania,1,Football (Soccer),united kingdom,3,Rugby,1961
+210,211,183010,1,belgium,1,Football (Soccer),netherlands,3,Basketball,1830
+210,850,194912,1,indonesia,1,Football (Soccer),netherlands,3,Basketball,1949
+210,212,186705,0,luxembourg,1,Boxing,netherlands,3,Basketball,1867
+211,490,196006,1,democratic republic of the congo,1,Wrestling,belgium,3,Cycling,1960
+220,439,196008,0,burkina faso,1,Football (Soccer),france,3,Wrestling,1960
+220,652,194604,1,syrian arab republic,1,Football (Soccer),france,3,Wrestling,1946
+220,600,195603,0,morocco,1,Football (Soccer),france,3,Wrestling,1956
+220,615,196207,1,algeria,1,Football (Soccer),france,3,Wrestling,1962
+220,660,194311,0,lebanon,1,Wrestling,france,3,Wrestling,1943
+220,817,195407,1,republic of vietnam,1,Tennis,france,3,Wrestling,1954
+220,438,195810,0,guatemala,1,Martial Arts,france,3,Wrestling,1958
+220,437,196008,0,ivory coast,1,Football (Soccer),france,3,Wrestling,1960
+230,150,181105,1,paraguay,1,Tennis,spain,3,Tennis,1811
+230,210,158107,1,netherlands,1,Football (Soccer),spain,3,Tennis,1581
+230,70,182109,1,mexico,1,Football (Soccer),spain,3,Tennis,1821
+230,135,182412,1,peru,1,Football (Soccer),spain,3,Tennis,1824
+230,160,181607,1,argentina,1,Basketball,spain,3,Tennis,1816
+230,100,181912,1,colombia,1,Football (Soccer),spain,3,Tennis,1819
+230,155,181802,1,chile,1,Football (Soccer),spain,3,Tennis,1818
+235,140,182209,0,brazil,1,Football (Soccer),portugal,3,Cycling,1822
+365,366,191811,1,estonia,1,Cue Sports,russian federation,3,Basketball,1918
+365,368,191802,1,lithuania,1,Basketball,russian federation,3,Basketball,1918
+365,367,191811,1,latvia,1,Basketball,russian federation,3,Basketball,1918
+365,368,199109,0,lithuania,1,Basketball,russian federation,3,Basketball,1991
+365,705,199112,0,kazakhstan,1,Football (Soccer),russian federation,3,Basketball,1991
+365,366,199108,0,estonia,1,Cue Sports,russian federation,3,Basketball,1991
+365,704,199112,0,uzbekistan,1,Football (Soccer),russian federation,3,Basketball,1991
+365,371,199112,0,armenia,1,Skating,russian federation,3,Basketball,1991
+365,373,199112,0,azerbaijan,1,Football (Soccer),russian federation,3,Basketball,1991
+365,367,199109,0,latvia,1,Basketball,russian federation,3,Basketball,1991
+365,370,199112,0,belarus,1,Ice Hockey,russian federation,3,Basketball,1991
+365,375,191712,1,finland,1,Ice Hockey,russian federation,3,Basketball,1917
+365,290,191811,1,poland,1,Football (Soccer),russian federation,3,Basketball,1918
+365,369,199112,0,ukraine,1,Football (Soccer),russian federation,3,Basketball,1991
+380,385,190506,0,norway,1,Ice Hockey,sweden,3,Rugby,1905
+560,565,199003,1,namibia,1,Football (Soccer),south africa,3,Cricket,1990
+651,652,196109,0,syrian arab republic,1,Football (Soccer),egypt,3,Tennis,1961
+710,713,194912,1,taiwan,1,Basketball,china,3,Badminton,1949
+710,712,192108,1,mongolia,1,Motor Sports,china,3,Badminton,1921
+770,771,197112,1,bangladesh,1,Football (Soccer),pakistan,3,Football (Soccer),1971
+820,830,196508,0,singapore,1,Football (Soccer),malaysia,3,Badminton,1965
+2,40,190205,0,cuba,2,Football (Soccer),united states of america,3,Basketball,1902
+2,840,194607,0,philippines,2,Boxing,united states of america,3,Basketball,1946
+100,101,183001,0,venezuela,2,Basketball,colombia,3,Motor Sports,1830
+100,130,183005,0,ecuador,2,Water Sports,colombia,3,Motor Sports,1830
+100,95,190311,1,panama,2,Boxing,colombia,3,Motor Sports,1903
+200,694,197109,0,qatar,2,Wrestling,united kingdom,3,Rugby,1971
+200,690,196106,0,kuwait,2,Wrestling,united kingdom,3,Rugby,1961
+200,750,194708,0,india,2,Football (Soccer),united kingdom,3,Rugby,1947
+200,770,194708,0,pakistan,2,Field Hockey,united kingdom,3,Rugby,1947
+200,590,196803,0,mauritius,2,Badminton,united kingdom,3,Rugby,1968
+200,20,186707,0,canada,2,Basketball,united kingdom,3,Rugby,1867
+200,560,191005,0,south africa,2,Water Sports,united kingdom,3,Rugby,1910
+200,696,197112,0,united arab emirates,2,Wrestling,united kingdom,3,Rugby,1971
+200,780,194802,0,sri lanka,2,Wrestling,united kingdom,3,Rugby,1948
+200,625,195601,0,sudan,2,Wrestling,united kingdom,3,Rugby,1956
+200,58,198111,0,antigua and barbuda,2,Football (Soccer),united kingdom,3,Rugby,1981
+200,2,178309,1,united states of america,2,Baseball,united kingdom,3,Rugby,1783
+200,52,196208,0,trinidad and tobago,2,Running,united kingdom,3,Rugby,1962
+200,55,197402,0,greece,2,Basketball,united kingdom,3,Rugby,1974
+200,475,196010,0,nigeria,2,Wrestling,united kingdom,3,Rugby,1960
+200,900,190101,0,australia,2,Rugby,united kingdom,3,Rugby,1901
+200,666,194805,1,israel,2,Wrestling,united kingdom,3,Rugby,1948
+200,651,192202,0,egypt,2,Wrestling,united kingdom,3,Rugby,1922
+200,820,195708,0,malaysia,2,Cricket,united kingdom,3,Rugby,1957
+200,205,192212,1,ireland,2,Golf,united kingdom,3,Rugby,1922
+200,920,190709,0,new zealand,2,Cricket,united kingdom,3,Rugby,1907
+210,850,194912,1,indonesia,2,Basketball,netherlands,3,Basketball,1949
+210,211,183010,1,belgium,2,Motor Sports,netherlands,3,Basketball,1830
+220,600,195603,0,morocco,2,Water Sports,france,3,Wrestling,1956
+220,615,196207,1,algeria,2,Wrestling,france,3,Wrestling,1962
+220,439,196008,0,burkina faso,2,Cycling,france,3,Wrestling,1960
+230,100,181912,1,colombia,2,Cycling,spain,3,Tennis,1819
+230,210,158107,1,netherlands,2,Motor Sports,spain,3,Tennis,1581
+230,160,181607,1,argentina,2,Tennis,spain,3,Tennis,1816
+230,70,182109,1,mexico,2,Boxing,spain,3,Tennis,1821
+230,135,182412,1,peru,2,Wrestling,spain,3,Tennis,1824
+230,155,181802,1,chile,2,Wrestling,spain,3,Tennis,1818
+235,140,182209,0,brazil,2,Volleyball,portugal,3,Cycling,1822
+365,704,199112,0,uzbekistan,2,Ice Hockey,russian federation,3,Basketball,1991
+365,368,199109,0,lithuania,2,Tennis,russian federation,3,Basketball,1991
+365,367,191811,1,latvia,2,Ice Hockey,russian federation,3,Basketball,1918
+365,369,199112,0,ukraine,2,Wrestling,russian federation,3,Basketball,1991
+365,368,191802,1,lithuania,2,Tennis,russian federation,3,Basketball,1918
+365,367,199109,0,latvia,2,Ice Hockey,russian federation,3,Basketball,1991
+365,375,191712,1,finland,2,Football (Soccer),russian federation,3,Basketball,1917
+365,370,199112,0,belarus,2,Football (Soccer),russian federation,3,Basketball,1991
+365,705,199112,0,kazakhstan,2,Cycling,russian federation,3,Basketball,1991
+365,290,191811,1,poland,2,Basketball,russian federation,3,Basketball,1918
+380,385,190506,0,norway,2,Winter Sports,sweden,3,Rugby,1905
+710,713,194912,1,taiwan,2,Baseball,china,3,Badminton,1949
+770,771,197112,1,bangladesh,2,Wrestling,pakistan,3,Football (Soccer),1971
+820,830,196508,0,singapore,2,Basketball,malaysia,3,Badminton,1965
+2,840,194607,0,philippines,3,Volleyball,united states of america,3,Basketball,1946
+2,40,190205,0,cuba,3,Volleyball,united states of america,3,Basketball,1902
+100,101,183001,0,venezuela,3,Football (Soccer),colombia,3,Motor Sports,1830
+100,130,183005,0,ecuador,3,Motor Sports,colombia,3,Motor Sports,1830
+100,95,190311,1,panama,3,Skateboarding,colombia,3,Motor Sports,1903
+200,770,194708,0,pakistan,3,Football (Soccer),united kingdom,3,Rugby,1947
+200,55,197402,0,greece,3,Motor Sports,united kingdom,3,Rugby,1974
+200,20,186707,0,canada,3,Baseball,united kingdom,3,Rugby,1867
+200,750,194708,0,india,3,Field Hockey,united kingdom,3,Rugby,1947
+200,694,197109,0,qatar,3,Cricket,united kingdom,3,Rugby,1971
+200,696,197112,0,united arab emirates,3,Cricket,united kingdom,3,Rugby,1971
+200,820,195708,0,malaysia,3,Badminton,united kingdom,3,Rugby,1957
+200,651,192202,0,egypt,3,Tennis,united kingdom,3,Rugby,1922
+200,2,178309,1,united states of america,3,Basketball,united kingdom,3,Rugby,1783
+200,560,191005,0,south africa,3,Cricket,united kingdom,3,Rugby,1910
+200,666,194805,1,israel,3,Tennis,united kingdom,3,Rugby,1948
+200,58,198111,0,antigua and barbuda,3,Tennis,united kingdom,3,Rugby,1981
+200,920,190709,0,new zealand,3,Football (Soccer),united kingdom,3,Rugby,1907
+200,205,192212,1,ireland,3,Boxing,united kingdom,3,Rugby,1922
+200,900,190101,0,australia,3,Cricket,united kingdom,3,Rugby,1901
+210,211,183010,1,belgium,3,Cycling,netherlands,3,Basketball,1830
+210,850,194912,1,indonesia,3,Wrestling,netherlands,3,Basketball,1949
+220,600,195603,0,morocco,3,Boxing,france,3,Wrestling,1956
+220,439,196008,0,burkina faso,3,Rugby,france,3,Wrestling,1960
+230,155,181802,1,chile,3,Tennis,spain,3,Tennis,1818
+230,210,158107,1,netherlands,3,Basketball,spain,3,Tennis,1581
+230,160,181607,1,argentina,3,Football (Soccer),spain,3,Tennis,1816
+230,135,182412,1,peru,3,Tennis,spain,3,Tennis,1824
+230,70,182109,1,mexico,3,Basketball,spain,3,Tennis,1821
+230,100,181912,1,colombia,3,Motor Sports,spain,3,Tennis,1819
+235,140,182209,0,brazil,3,Basketball,portugal,3,Cycling,1822
+365,367,191811,1,latvia,3,Football (Soccer),russian federation,3,Basketball,1918
+365,368,191802,1,lithuania,3,Martial Arts,russian federation,3,Basketball,1918
+365,368,199109,0,lithuania,3,Martial Arts,russian federation,3,Basketball,1991
+365,369,199112,0,ukraine,3,Basketball,russian federation,3,Basketball,1991
+365,704,199112,0,uzbekistan,3,Rugby,russian federation,3,Basketball,1991
+365,367,199109,0,latvia,3,Football (Soccer),russian federation,3,Basketball,1991
+365,290,191811,1,poland,3,Motor Sports,russian federation,3,Basketball,1918
+365,370,199112,0,belarus,3,Tennis,russian federation,3,Basketball,1991
+365,375,191712,1,finland,3,Motor Sports,russian federation,3,Basketball,1917
+365,705,199112,0,kazakhstan,3,Boxing,russian federation,3,Basketball,1991
+380,385,190506,0,norway,3,Football (Soccer),sweden,3,Rugby,1905
+710,713,194912,1,taiwan,3,Table Tennis,china,3,Badminton,1949
+770,771,197112,1,bangladesh,3,Cricket,pakistan,3,Football (Soccer),1971
+820,830,196508,0,singapore,3,Cricket,malaysia,3,Badminton,1965
