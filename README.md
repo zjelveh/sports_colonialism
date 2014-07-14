@@ -1,6 +1,10 @@
 sports_colonialism
 ==================
-Data set on shared sports popularity for colonizers and their colonies. Merged from http://www.paulhensel.org/icowcol.html and http://mostpopularsports.net.
+Data set behind my item on <a href ="http://www.esquire.com/blogs/news/america-soccer-love">shared sports popularity for colonizers and their colonies</a> on <a href="http://esquire.com">Esquire</a>.
+
+Merged from http://www.paulhensel.org/icowcol.html and http://mostpopularsports.net.
+
+
 
 Column definitions:
 ====================
